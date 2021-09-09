@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="lab01-recordando-poo-antoniott15" />
         <module name="lab1" />
+        <module name="lab01-recordando-poo-jneirar" />
       </profile>
     </annotationProcessing>
   </component>
